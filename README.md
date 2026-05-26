@@ -20,3 +20,4 @@ pip3 install keyboard==0.13.5
 ## Not
 - utils/sv.py den keyi değiştirebilirsiniz normali H de
 - H tuşuna bastığınızda oyun donuyor isterseniz 50saniye gidin proxy oldugu için oyundan atmıyor kolay kolay rakibin arkasına geçerek kullanabilirsiniz isterseniz kendinize bi ping ayarı cekebilirsiniz
+- Discord: xalperen
